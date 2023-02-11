@@ -1,0 +1,29 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #51747f;
+}
+
+.main-title {
+  margin-top: 1rem;  
+}
+
+h1 {
+  color: #d8eb07;
+}
+
+ */
+
+
+ input, p{
+  font-family: monospace;
+  font-size: 20px;
+ }
